@@ -1,0 +1,31 @@
+id,client,type,priority,opened,status,closed,notes
+R001,Rahman Textiles,Training,Medium,2026-09-21,Closed,2026-09-22,Onboarding session for new staff
+R002,Surma Foods,Documentation,High,2026-10-05,Closed,2026-10-06,User guide update after release
+R003,Rahman Textiles,Software issue,High,2026-09-14,Resolved,2026-09-21,Login error reported by client user
+R004,Surma Foods,New feature,High,2026-09-16,Resolved,2026-09-17,Add invoice filter to dashboard
+R005,Surma Foods,Report,Medium,2026-09-08,Closed,2026-09-09,Weekly delivery summary for management
+R006,Rahman Textiles,Software issue,Low,2026-10-08,In progress,,Login error reported by client user
+R007,Surma Foods,Documentation,Medium,2026-10-06,Resolved,2026-10-09,User guide update after release
+R008,Rahman Textiles,New feature,Medium,2026-09-08,Closed,2026-09-11,Add invoice filter to dashboard
+R009,Surma Foods,Documentation,Medium,2026-10-08,Open,,User guide update after release
+R010,Meghna Pharma,New feature,High,2026-09-05,In progress,,Add invoice filter to dashboard
+R011,Padma Traders,Documentation,Low,2026-10-05,In progress,,User guide update after release
+R012,Rahman Textiles,Data request,Medium,2026-09-20,Closed,2026-09-24,Monthly export of shipment records
+R013,Karnaphuli Shipping,New feature,Medium,2026-10-07,In progress,,Add invoice filter to dashboard
+R014,Rahman Textiles,New feature,Medium,2026-09-29,Open,,Add invoice filter to dashboard
+R015,Dhaka Logistics Ltd,Data request,Low,2026-10-03,Waiting on client,,Monthly export of shipment records
+R016,Surma Foods,Software issue,Low,2026-10-02,Closed,2026-10-04,Login error reported by client user
+R017,Surma Foods,Documentation,Medium,2026-10-07,In progress,,User guide update after release
+R018,Padma Traders,Software issue,Low,2026-10-02,Open,,Login error reported by client user
+R019,Karnaphuli Shipping,Software issue,High,2026-10-01,Closed,2026-10-06,Login error reported by client user
+R020,Karnaphuli Shipping,Documentation,Low,2026-10-07,In progress,,User guide update after release
+R021,Dhaka Logistics Ltd,Training,High,2026-09-23,Waiting on client,,Onboarding session for new staff
+R022,Padma Traders,Software issue,Low,2026-09-08,In progress,,Login error reported by client user
+R023,Rahman Textiles,Training,Medium,2026-09-09,Resolved,2026-09-17,Onboarding session for new staff
+R024,Dhaka Logistics Ltd,Training,Low,2026-09-11,Closed,2026-09-16,Onboarding session for new staff
+R025,Karnaphuli Shipping,Report,Medium,2026-09-28,Resolved,2026-10-04,Weekly delivery summary for management
+R026,Dhaka Logistics Ltd,Data request,Medium,2026-09-25,Open,,Monthly export of shipment records
+R027,Rahman Textiles,Report,Medium,2026-09-10,In progress,,Weekly delivery summary for management
+R028,Rahman Textiles,Documentation,Medium,2026-10-02,Waiting on client,,User guide update after release
+R029,Surma Foods,New feature,Low,2026-09-10,Waiting on client,,Add invoice filter to dashboard
+R030,Surma Foods,Data request,Medium,2026-10-07,In progress,,Monthly export of shipment records
